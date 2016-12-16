@@ -1,0 +1,6 @@
+scrapy
+pymongo
+proxylist
+python-dateutil
+pymysql
+pycountry

@@ -4,3 +4,4 @@ proxylist
 python-dateutil
 pymysql
 pycountry
+leveldb

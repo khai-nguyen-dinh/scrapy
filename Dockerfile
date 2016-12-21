@@ -15,5 +15,5 @@ RUN apt-get install -y gcc g++ python3-dev libssl-dev \
 
 COPY requirements.txt /
 RUN pip3 install -r /requirements.txt
-ENTRYPOINT ["/event_crawler/scheduler.sh"]
+ENTRYPOINT ["start.sh"]
 

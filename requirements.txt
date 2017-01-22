@@ -5,3 +5,5 @@ python-dateutil
 pymysql
 pycountry
 leveldb
+mysqlclient
+sqlalchemy

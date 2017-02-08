@@ -7,3 +7,4 @@ pycountry
 leveldb
 mysqlclient
 sqlalchemy
+selenium

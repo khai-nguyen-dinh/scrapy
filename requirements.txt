@@ -8,3 +8,4 @@ leveldb
 mysqlclient
 sqlalchemy
 selenium
+scrapy-splash

@@ -9,3 +9,4 @@ mysqlclient
 sqlalchemy
 selenium
 scrapy-splash
+psycopg2

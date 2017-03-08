@@ -6,7 +6,7 @@ MAINTAINER khainguyen "khainguyenptiter@gmail.com"
 
 RUN apt-get -y update
 
-RUN apt-get install -y gcc g++ python3-dev libssl-dev \
+RUN apt-get install -y gcc g++ python3-dev htop libssl-dev \
     libxml2-dev libxslt1-dev libffi-dev \
     libmysqlclient-dev python3-pip\
     libtiff5-dev libjpeg8-dev zlib1g-dev \

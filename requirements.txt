@@ -12,3 +12,4 @@ scrapy-splash
 pyparsing
 psycopg2
 awesome-slugify
+fuzzywuzzy

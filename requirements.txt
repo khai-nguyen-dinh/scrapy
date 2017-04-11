@@ -13,3 +13,4 @@ pyparsing
 psycopg2
 awesome-slugify
 fuzzywuzzy
+tinys3

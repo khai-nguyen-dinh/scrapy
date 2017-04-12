@@ -1,5 +1,7 @@
 scrapy
 pymongo
+appdirs
+requests
 proxylist
 python-dateutil
 pymysql
